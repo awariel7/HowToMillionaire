@@ -1,0 +1,49 @@
+{
+    "window": {
+        "bg_color": "#002b5c",
+        "title": "How to Millionaire",
+        "geometry": "1200x1200"
+    },
+    "fonts": {
+        "question_font": {
+            "family": "Arial",
+            "size": 20,
+            "weight": "bold"
+        },
+        "option_font": {
+            "family": "Arial",
+            "size": 16
+        }
+    },
+    "button": {
+        "bg_color": "#004080",
+        "fg_color": "white",
+        "active_bg": "#ffd700",
+        "active_fg": "black",
+        "correct_bg": "#00b300",
+        "incorrect_bg": "#b30000",
+        "option_bg": "#ffd700",
+        "width": 40,
+        "height": 2,
+        "padding": 10,
+        "borderwidth": 0
+    },
+    "exit_button": {
+        "bg_color": "#004080",
+        "fg_color": "white",
+        "active_bg": "#ffd700",
+        "active_fg": "black",
+        "correct_bg": "#00b300",
+        "incorrect_bg": "#b30000",
+        "option_bg": "#ffd700",
+        "width": 20,
+        "height": 2,
+        "padding": 10,
+        "borderwidth": 0
+    },
+    "label": {
+        "fg_color": "white",
+        "wraplength": 700,
+        "justify": "center"
+    }
+}
